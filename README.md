@@ -7,7 +7,7 @@ This is a React/Express/Node project with pipelines based on Python's transforme
 
 
 
-Here is a video to see it in action: 
+See it in action: 
 
 
 https://github.com/FragileLlama/presidents/assets/102778572/5bcd29ed-62e1-454c-97fe-6de86a714a44
