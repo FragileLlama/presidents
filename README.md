@@ -1,9 +1,16 @@
-# Presidential Chatting
-
-Fine tuned [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) model for all of the U.S. Presidents, 
-with the intention to engage students with a history educational platform.
+# Chat With Presidents
+ ![Screenshot 2024-06-10 021650](https://github.com/FragileLlama/presidents/assets/102778572/bff6641e-1f73-4525-8aa5-562d2f05fa26)
+Fine tuned [Meta-Llama-3-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) model for all of the U.S. Presidents, allowing
+users to personally "chat" with them. The intention is to use this tool as a history education platform to immerse students in the Socratic Method.
 
 This is a React/Express/Node project with pipelines based on Python's transformers library.
+
+
+
+Here is a video to see it in action: 
+
+
+https://github.com/FragileLlama/presidents/assets/102778572/5bcd29ed-62e1-454c-97fe-6de86a714a44
 
 
 
